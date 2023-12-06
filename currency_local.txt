@@ -1,0 +1,886 @@
+{"id": "01coin", "symbol": "zoc", "name": "01coin"}
+{"id": "0chain", "symbol": "zcn", "name": "Zus"}
+{"id": "0-knowledge-network", "symbol": "0kn", "name": "0 Knowledge Network"}
+{"id": "0-mee", "symbol": "ome", "name": "O-MEE"}
+{"id": "0vix-protocol", "symbol": "vix", "name": "0VIX Protocol"}
+{"id": "0x", "symbol": "zrx", "name": "0x Protocol"}
+{"id": "0x0-ai-ai-smart-contract", "symbol": "0x0", "name": "0x0.ai: AI Smart Contract"}
+{"id": "0x1-tools-ai-multi-tool", "symbol": "0x1", "name": "0x1.tools: AI Multi-tool"}
+{"id": "0xaiswap", "symbol": "0xaiswap", "name": "0xAISwap"}
+{"id": "0xanon", "symbol": "0xanon", "name": "0xAnon"}
+{"id": "0xauto-io-contract-auto-deployer", "symbol": "0xa", "name": "0xAuto.io : Contract Auto Deployer"}
+{"id": "0xblack", "symbol": "0xb", "name": "0xBlack"}
+{"id": "0xcoco", "symbol": "coco", "name": "0xCoco"}
+{"id": "0xconnect", "symbol": "0xcon", "name": "0xConnect"}
+{"id": "0xdao", "symbol": "oxd", "name": "0xDAO"}
+{"id": "0xdefcafe", "symbol": "cafe", "name": "0xDEFCAFE"}
+{"id": "0xfreelance", "symbol": "0xfree", "name": "0xFreelance"}
+{"id": "0xfriend", "symbol": "0xf", "name": "0xFriend"}
+{"id": "0xgambit", "symbol": "0xg", "name": "0xgambit"}
+{"id": "0xgasless", "symbol": "0xgas", "name": "0xGasless"}
+{"id": "0x-leverage", "symbol": "oxl", "name": "0x Leverage"}
+{"id": "0xlsd", "symbol": "0xlsd", "name": "0xLSD"}
+{"id": "0xmonero", "symbol": "0xmr", "name": "0xMonero"}
+{"id": "0xs", "symbol": "$0xs", "name": "0xS"}
+{"id": "0xsniper", "symbol": "0xs", "name": "0xSniper"}
+{"id": "0xvault", "symbol": "vault", "name": "0xVault"}
+{"id": "12ships", "symbol": "tshp", "name": "12Ships"}
+{"id": "1art", "symbol": "1art", "name": "OneArt"}
+{"id": "1eco", "symbol": "1eco", "name": "1eco"}
+{"id": "1hive-water", "symbol": "water", "name": "1Hive Water"}
+{"id": "1inch", "symbol": "1inch", "name": "1inch"}
+{"id": "1inch-yvault", "symbol": "yv1inch", "name": "1INCH yVault"}
+{"id": "1million-nfts", "symbol": "1mil", "name": "1MillionNFTs"}
+{"id": "1minbet", "symbol": "1mb", "name": "1minBET"}
+{"id": "1move token", "symbol": "1mt", "name": "1Move Token"}
+{"id": "1peco", "symbol": "1peco", "name": "1peco"}
+{"id": "1reward-token", "symbol": "1rt", "name": "1Reward Token"}
+{"id": "1safu", "symbol": "safu", "name": "1SAFU"}
+{"id": "1sol", "symbol": "1sol", "name": "1Sol"}
+{"id": "1sol-io-wormhole", "symbol": "1sol", "name": "1sol.io (Wormhole)"}
+{"id": "-2", "symbol": "\u20bf", "name": "\u20bf"}
+{"id": "2024pump", "symbol": "pump", "name": "2024PUMP"}
+{"id": "2049", "symbol": "2049", "name": "2049"}
+{"id": "2080", "symbol": "2080", "name": "2080"}
+{"id": "20weth-80bal", "symbol": "20weth-80bal", "name": "20WETH-80BAL"}
+{"id": "28", "symbol": "28", "name": "28"}
+{"id": "28vck", "symbol": "vck", "name": "28VCK"}
+{"id": "2acoin", "symbol": "arms", "name": "2ACoin"}
+{"id": "2dai-io", "symbol": "2dai", "name": "2DAI.io"}
+{"id": "2g-carbon-coin", "symbol": "2gcc", "name": "2G Carbon Coin"}
+{"id": "2moon", "symbol": "moon", "name": "2MOON"}
+{"id": "2omb-finance", "symbol": "2omb", "name": "2omb"}
+{"id": "2share", "symbol": "2shares", "name": "2SHARE"}
+{"id": "300fit", "symbol": "fit", "name": "300FIT"}
+{"id": "3a-lending-protocol", "symbol": "a3a", "name": "3A"}
+{"id": "3d3d", "symbol": "3d3d", "name": "3d3d"}
+{"id": "3dpass", "symbol": "p3d", "name": "3DPass"}
+{"id": "3-kingdoms-multiverse", "symbol": "3km", "name": "3 Kingdoms Multiverse"}
+{"id": "3shares", "symbol": "3share", "name": "3Share"}
+{"id": "3wild", "symbol": "3wild", "name": "3WILD"}
+{"id": "3xcalibur", "symbol": "xcal", "name": "3xcalibur Ecosystem Token"}
+{"id": "42-coin", "symbol": "42", "name": "42-coin"}
+{"id": "4artechnologies", "symbol": "4art", "name": "4ART Coin"}
+{"id": "4chan", "symbol": "4chan", "name": "4Chan"}
+{"id": "4d-twin-maps-2", "symbol": "4dmaps", "name": "4D Twin Maps"}
+{"id": "4int", "symbol": "4int", "name": "4INT"}
+{"id": "4jnet", "symbol": "4jnet", "name": "4JNET"}
+{"id": "4-next-unicorn", "symbol": "nxtu", "name": "4 Next Unicorn"}
+{"id": "50cal", "symbol": "50cal", "name": "50cal"}
+{"id": "50cent", "symbol": "50c", "name": "50Cent"}
+{"id": "5g-cash", "symbol": "vgc", "name": "5G-CASH"}
+{"id": "5km-run", "symbol": "run", "name": "5KM RUN"}
+{"id": "5mc", "symbol": "5mc", "name": "5mc"}
+{"id": "69420", "symbol": "69420", "name": "69420"}
+{"id": "888tron", "symbol": "888", "name": "888tron"}
+{"id": "88mph", "symbol": "mph", "name": "88mph"}
+{"id": "8bitearn", "symbol": "8bit", "name": "8BITEARN"}
+{"id": "8pay", "symbol": "8pay", "name": "8Pay"}
+{"id": "99starz", "symbol": "stz", "name": "99Starz"}
+{"id": "9inch", "symbol": "9inch", "name": "9inch"}
+{"id": "9inch-eth", "symbol": "9inch", "name": "9inch ETH"}
+{"id": "a3s", "symbol": "aa", "name": "A3S"}
+{"id": "a4-finance", "symbol": "a4", "name": "A4 Finance"}
+{"id": "aada-finance", "symbol": "lenfi", "name": "Lenfi"}
+{"id": "aag-ventures", "symbol": "aag", "name": "AAG"}
+{"id": "aardvark", "symbol": "ardvrk", "name": "Aardvark [OLD]"}
+{"id": "aardvark-2", "symbol": "vark", "name": "Aardvark"}
+{"id": "aave", "symbol": "aave", "name": "Aave"}
+{"id": "aave-aave", "symbol": "aaave", "name": "Aave AAVE"}
+{"id": "aave-amm-bptbalweth", "symbol": "aammbptbalweth", "name": "Aave AMM BptBALWETH"}
+{"id": "aave-amm-bptwbtcweth", "symbol": "aammbptwbtcweth", "name": "Aave AMM BptWBTCWETH"}
+{"id": "aave-amm-dai", "symbol": "aammdai", "name": "Aave AMM DAI"}
+{"id": "aave-amm-uniaaveweth", "symbol": "aammuniaaveweth", "name": "Aave AMM UniAAVEWETH"}
+{"id": "aave-amm-unibatweth", "symbol": "aammunibatweth", "name": "Aave AMM UniBATWETH"}
+{"id": "aave-amm-unicrvweth", "symbol": "aammunicrvweth", "name": "Aave AMM UniCRVWETH"}
+{"id": "aave-amm-unidaiusdc", "symbol": "aammunidaiusdc", "name": "Aave AMM UniDAIUSDC"}
+{"id": "aave-amm-unidaiweth", "symbol": "aammunidaiweth", "name": "Aave AMM UniDAIWETH"}
+{"id": "aave-amm-unilinkweth", "symbol": "aammunilinkweth", "name": "Aave AMM UniLINKWETH"}
+{"id": "aave-amm-unimkrweth", "symbol": "aammunimkrweth", "name": "Aave AMM UniMKRWETH"}
+{"id": "aave-amm-unirenweth", "symbol": "aammunirenweth", "name": "Aave AMM UniRENWETH"}
+{"id": "aave-amm-unisnxweth", "symbol": "aammunisnxweth", "name": "Aave AMM UniSNXWETH"}
+{"id": "aave-amm-uniuniweth", "symbol": "aammuniuniweth", "name": "Aave AMM UniUNIWETH"}
+{"id": "aave-amm-uniusdcweth", "symbol": "aammuniusdcweth", "name": "Aave AMM UniUSDCWETH"}
+{"id": "aave-amm-uniwbtcusdc", "symbol": "aammuniwbtcusdc", "name": "Aave AMM UniWBTCUSDC"}
+{"id": "aave-amm-uniwbtcweth", "symbol": "aammuniwbtcweth", "name": "Aave AMM UniWBTCWETH"}
+{"id": "aave-amm-uniyfiweth", "symbol": "aammuniyfiweth", "name": "Aave AMM UniYFIWETH"}
+{"id": "aave-amm-usdc", "symbol": "aammusdc", "name": "Aave AMM USDC"}
+{"id": "aave-amm-usdt", "symbol": "aammusdt", "name": "Aave AMM USDT"}
+{"id": "aave-amm-wbtc", "symbol": "aammwbtc", "name": "Aave AMM WBTC"}
+{"id": "aave-amm-weth", "symbol": "aammweth", "name": "Aave AMM WETH"}
+{"id": "aave-bal", "symbol": "abal", "name": "Aave BAL"}
+{"id": "aave-balancer-pool-token", "symbol": "abpt", "name": "Aave Balancer Pool Token"}
+{"id": "aave-bat", "symbol": "abat", "name": "Aave BAT"}
+{"id": "aave-bat-v1", "symbol": "abat", "name": "Aave BAT v1"}
+{"id": "aave-busd", "symbol": "abusd", "name": "Aave BUSD"}
+{"id": "aave-busd-v1", "symbol": "abusd", "name": "Aave BUSD v1"}
+{"id": "aave-crv", "symbol": "acrv", "name": "Aave CRV"}
+{"id": "aave-dai", "symbol": "adai", "name": "Aave DAI"}
+{"id": "aave-dai-v1", "symbol": "adai", "name": "Aave DAI v1"}
+{"id": "aave-enj", "symbol": "aenj", "name": "Aave ENJ"}
+{"id": "aave-enj-v1", "symbol": "aenj", "name": "Aave ENJ v1"}
+{"id": "aave-eth-v1", "symbol": "aeth", "name": "Aave ETH v1"}
+{"id": "aavegotchi", "symbol": "ghst", "name": "Aavegotchi"}
+{"id": "aavegotchi-alpha", "symbol": "alpha", "name": "Aavegotchi ALPHA"}
+{"id": "aavegotchi-fomo", "symbol": "fomo", "name": "Aavegotchi FOMO"}
+{"id": "aavegotchi-fud", "symbol": "fud", "name": "Aavegotchi FUD"}
+{"id": "aavegotchi-kek", "symbol": "kek", "name": "Aavegotchi KEK"}
+{"id": "aave-gusd", "symbol": "agusd", "name": "Aave GUSD"}
+{"id": "aave-interest-bearing-steth", "symbol": "asteth", "name": "Aave Interest Bearing STETH"}
+{"id": "aave-knc", "symbol": "aknc", "name": "Aave KNC"}
+{"id": "aave-knc-v1", "symbol": "aknc", "name": "Aave KNC v1"}
+{"id": "aave-link", "symbol": "alink", "name": "Aave LINK"}
+{"id": "aave-link-v1", "symbol": "alink", "name": "Aave LINK v1"}
+{"id": "aave-mana", "symbol": "amana", "name": "Aave MANA"}
+{"id": "aave-mana-v1", "symbol": "amana", "name": "Aave MANA v1"}
+{"id": "aave-mkr", "symbol": "amkr", "name": "Aave MKR"}
+{"id": "aave-mkr-v1", "symbol": "amkr", "name": "Aave MKR v1"}
+{"id": "aave-polygon-aave", "symbol": "amaave", "name": "Aave Polygon AAVE"}
+{"id": "aave-polygon-dai", "symbol": "amdai", "name": "Aave Polygon DAI"}
+{"id": "aave-polygon-usdc", "symbol": "amusdc", "name": "Aave Polygon USDC"}
+{"id": "aave-polygon-usdt", "symbol": "amusdt", "name": "Aave Polygon USDT"}
+{"id": "aave-polygon-wbtc", "symbol": "amwbtc", "name": "Aave Polygon WBTC"}
+{"id": "aave-polygon-weth", "symbol": "amweth", "name": "Aave Polygon WETH"}
+{"id": "aave-polygon-wmatic", "symbol": "amwmatic", "name": "Aave Polygon WMATIC"}
+{"id": "aave-rai", "symbol": "arai", "name": "Aave RAI"}
+{"id": "aave-ren", "symbol": "aren", "name": "Aave REN"}
+{"id": "aave-ren-v1", "symbol": "aren", "name": "Aave REN v1"}
+{"id": "aave-snx", "symbol": "asnx", "name": "Aave SNX"}
+{"id": "aave-snx-v1", "symbol": "asnx", "name": "Aave SNX v1"}
+{"id": "aave-susd", "symbol": "asusd", "name": "Aave SUSD"}
+{"id": "aave-susd-v1", "symbol": "asusd", "name": "Aave SUSD v1"}
+{"id": "aave-tusd", "symbol": "atusd", "name": "Aave TUSD"}
+{"id": "aave-tusd-v1", "symbol": "atusd", "name": "Aave TUSD v1"}
+{"id": "aave-uni", "symbol": "auni", "name": "Aave UNI"}
+{"id": "aave-usdc", "symbol": "ausdc", "name": "Aave v2 USDC"}
+{"id": "aave-usdc-v1", "symbol": "ausdc", "name": "Aave USDC v1"}
+{"id": "aave-usdt", "symbol": "ausdt", "name": "Aave USDT"}
+{"id": "aave-usdt-v1", "symbol": "ausdt", "name": "Aave USDT v1"}
+{"id": "aave-v3-1inch", "symbol": "a1inch", "name": "Aave v3 1INCH"}
+{"id": "aave-v3-aave", "symbol": "aaave", "name": "Aave v3 AAVE"}
+{"id": "aave-v3-ageur", "symbol": "aageur", "name": "Aave v3 agEUR"}
+{"id": "aave-v3-arb", "symbol": "aarb", "name": "Aave v3 ARB"}
+{"id": "aave-v3-bal", "symbol": "abal", "name": "Aave v3 BAL"}
+{"id": "aave-v3-btc-b", "symbol": "abtc.b", "name": "Aave v3 BTC.b"}
+{"id": "aave-v3-cbeth", "symbol": "acbeth", "name": "Aave v3 cbETH"}
+{"id": "aave-v3-crv", "symbol": "acrv", "name": "Aave v3 CRV"}
+{"id": "aave-v3-dai", "symbol": "adai", "name": "Aave v3 DAI"}
+{"id": "aave-v3-dpi", "symbol": "adpi", "name": "Aave v3 DPI"}
+{"id": "aave-v3-ens", "symbol": "aens", "name": "Aave v3 ENS"}
+{"id": "aave-v3-eure", "symbol": "aeure", "name": "Aave v3 EURe"}
+{"id": "aave-v3-eurs", "symbol": "aeurs", "name": "Aave v3 EURS"}
+{"id": "aave-v3-frax", "symbol": "afrax", "name": "Aave v3 FRAX"}
+{"id": "aave-v3-ghst", "symbol": "aghst", "name": "Aave v3 GHST"}
+{"id": "aave-v3-gno", "symbol": "agno", "name": "Aave v3 GNO"}
+{"id": "aave-v3-knc", "symbol": "aknc", "name": "Aave v3 KNC"}
+{"id": "aave-v3-ldo", "symbol": "aldo", "name": "Aave v3 LDO"}
+{"id": "aave-v3-link", "symbol": "alink", "name": "Aave v3 LINK"}
+{"id": "aave-v3-lusd", "symbol": "alusd", "name": "Aave v3 LUSD"}
+{"id": "aave-v3-mai", "symbol": "amai", "name": "Aave v3 MAI"}
+{"id": "aave-v3-maticx", "symbol": "amaticx", "name": "Aave v3 MaticX"}
+{"id": "aave-v3-metis", "symbol": "ametis", "name": "Aave v3 Metis"}
+{"id": "aave-v3-mkr", "symbol": "amkr", "name": "Aave v3 MKR"}
+{"id": "aave-v3-op", "symbol": "aop", "name": "Aave v3 OP"}
+{"id": "aave-v3-reth", "symbol": "areth", "name": "Aave v3 rETH"}
+{"id": "aave-v3-rpl", "symbol": "arpl", "name": "Aave v3 RPL"}
+{"id": "aave-v3-savax", "symbol": "asavax", "name": "Aave v3 sAVAX"}
+{"id": "aave-v3-sdai", "symbol": "asdai", "name": "Aave v3 sDAI"}
+{"id": "aave-v3-snx", "symbol": "asnx", "name": "Aave v3 SNX"}
+{"id": "aave-v3-stg", "symbol": "astg", "name": "Aave v3 STG"}
+{"id": "aave-v3-stmatic", "symbol": "astmatic", "name": "Aave v3 stMATIC"}
+{"id": "aave-v3-susd", "symbol": "asusd", "name": "Aave v3 sUSD"}
+{"id": "aave-v3-sushi", "symbol": "asushi", "name": "Aave v3 SUSHI"}
+{"id": "aave-v3-uni", "symbol": "auni", "name": "Aave v3 UNI"}
+{"id": "aave-v3-usdbc", "symbol": "ausdbc", "name": "Aave v3 USDbC"}
+{"id": "aave-v3-usdc", "symbol": "ausdc", "name": "Aave v3 USDC"}
+{"id": "aave-v3-usdc-e", "symbol": "ausdc.e", "name": "Aave v3 USDC.e"}
+{"id": "aave-v3-usdt", "symbol": "ausdt", "name": "Aave v3 USDT"}
+{"id": "01coin", "symbol": "zoc", "name": "01coin"}
+{"id": "0chain", "symbol": "zcn", "name": "Zus"}
+{"id": "0-knowledge-network", "symbol": "0kn", "name": "0 Knowledge Network"}
+{"id": "0-mee", "symbol": "ome", "name": "O-MEE"}
+{"id": "0vix-protocol", "symbol": "vix", "name": "0VIX Protocol"}
+{"id": "0x", "symbol": "zrx", "name": "0x Protocol"}
+{"id": "0x0-ai-ai-smart-contract", "symbol": "0x0", "name": "0x0.ai: AI Smart Contract"}
+{"id": "0x1-tools-ai-multi-tool", "symbol": "0x1", "name": "0x1.tools: AI Multi-tool"}
+{"id": "0xaiswap", "symbol": "0xaiswap", "name": "0xAISwap"}
+{"id": "0xanon", "symbol": "0xanon", "name": "0xAnon"}
+{"id": "0xauto-io-contract-auto-deployer", "symbol": "0xa", "name": "0xAuto.io : Contract Auto Deployer"}
+{"id": "0xblack", "symbol": "0xb", "name": "0xBlack"}
+{"id": "0xcoco", "symbol": "coco", "name": "0xCoco"}
+{"id": "0xconnect", "symbol": "0xcon", "name": "0xConnect"}
+{"id": "0xdao", "symbol": "oxd", "name": "0xDAO"}
+{"id": "0xdefcafe", "symbol": "cafe", "name": "0xDEFCAFE"}
+{"id": "0xfreelance", "symbol": "0xfree", "name": "0xFreelance"}
+{"id": "0xfriend", "symbol": "0xf", "name": "0xFriend"}
+{"id": "0xgambit", "symbol": "0xg", "name": "0xgambit"}
+{"id": "0xgasless", "symbol": "0xgas", "name": "0xGasless"}
+{"id": "0x-leverage", "symbol": "oxl", "name": "0x Leverage"}
+{"id": "0xlsd", "symbol": "0xlsd", "name": "0xLSD"}
+{"id": "0xmonero", "symbol": "0xmr", "name": "0xMonero"}
+{"id": "0xs", "symbol": "$0xs", "name": "0xS"}
+{"id": "0xsniper", "symbol": "0xs", "name": "0xSniper"}
+{"id": "0xvault", "symbol": "vault", "name": "0xVault"}
+{"id": "12ships", "symbol": "tshp", "name": "12Ships"}
+{"id": "1art", "symbol": "1art", "name": "OneArt"}
+{"id": "1eco", "symbol": "1eco", "name": "1eco"}
+{"id": "1hive-water", "symbol": "water", "name": "1Hive Water"}
+{"id": "1inch", "symbol": "1inch", "name": "1inch"}
+{"id": "1inch-yvault", "symbol": "yv1inch", "name": "1INCH yVault"}
+{"id": "1million-nfts", "symbol": "1mil", "name": "1MillionNFTs"}
+{"id": "1minbet", "symbol": "1mb", "name": "1minBET"}
+{"id": "1move token", "symbol": "1mt", "name": "1Move Token"}
+{"id": "1peco", "symbol": "1peco", "name": "1peco"}
+{"id": "1reward-token", "symbol": "1rt", "name": "1Reward Token"}
+{"id": "1safu", "symbol": "safu", "name": "1SAFU"}
+{"id": "1sol", "symbol": "1sol", "name": "1Sol"}
+{"id": "1sol-io-wormhole", "symbol": "1sol", "name": "1sol.io (Wormhole)"}
+{"id": "-2", "symbol": "\u20bf", "name": "\u20bf"}
+{"id": "2024pump", "symbol": "pump", "name": "2024PUMP"}
+{"id": "2049", "symbol": "2049", "name": "2049"}
+{"id": "2080", "symbol": "2080", "name": "2080"}
+{"id": "20weth-80bal", "symbol": "20weth-80bal", "name": "20WETH-80BAL"}
+{"id": "28", "symbol": "28", "name": "28"}
+{"id": "28vck", "symbol": "vck", "name": "28VCK"}
+{"id": "2acoin", "symbol": "arms", "name": "2ACoin"}
+{"id": "2dai-io", "symbol": "2dai", "name": "2DAI.io"}
+{"id": "2g-carbon-coin", "symbol": "2gcc", "name": "2G Carbon Coin"}
+{"id": "2moon", "symbol": "moon", "name": "2MOON"}
+{"id": "2omb-finance", "symbol": "2omb", "name": "2omb"}
+{"id": "2share", "symbol": "2shares", "name": "2SHARE"}
+{"id": "300fit", "symbol": "fit", "name": "300FIT"}
+{"id": "3a-lending-protocol", "symbol": "a3a", "name": "3A"}
+{"id": "3d3d", "symbol": "3d3d", "name": "3d3d"}
+{"id": "3dpass", "symbol": "p3d", "name": "3DPass"}
+{"id": "3-kingdoms-multiverse", "symbol": "3km", "name": "3 Kingdoms Multiverse"}
+{"id": "3shares", "symbol": "3share", "name": "3Share"}
+{"id": "3wild", "symbol": "3wild", "name": "3WILD"}
+{"id": "3xcalibur", "symbol": "xcal", "name": "3xcalibur Ecosystem Token"}
+{"id": "42-coin", "symbol": "42", "name": "42-coin"}
+{"id": "4artechnologies", "symbol": "4art", "name": "4ART Coin"}
+{"id": "4chan", "symbol": "4chan", "name": "4Chan"}
+{"id": "4d-twin-maps-2", "symbol": "4dmaps", "name": "4D Twin Maps"}
+{"id": "4int", "symbol": "4int", "name": "4INT"}
+{"id": "4jnet", "symbol": "4jnet", "name": "4JNET"}
+{"id": "4-next-unicorn", "symbol": "nxtu", "name": "4 Next Unicorn"}
+{"id": "50cal", "symbol": "50cal", "name": "50cal"}
+{"id": "50cent", "symbol": "50c", "name": "50Cent"}
+{"id": "5g-cash", "symbol": "vgc", "name": "5G-CASH"}
+{"id": "5km-run", "symbol": "run", "name": "5KM RUN"}
+{"id": "5mc", "symbol": "5mc", "name": "5mc"}
+{"id": "69420", "symbol": "69420", "name": "69420"}
+{"id": "888tron", "symbol": "888", "name": "888tron"}
+{"id": "88mph", "symbol": "mph", "name": "88mph"}
+{"id": "8bitearn", "symbol": "8bit", "name": "8BITEARN"}
+{"id": "8pay", "symbol": "8pay", "name": "8Pay"}
+{"id": "99starz", "symbol": "stz", "name": "99Starz"}
+{"id": "9inch", "symbol": "9inch", "name": "9inch"}
+{"id": "9inch-eth", "symbol": "9inch", "name": "9inch ETH"}
+{"id": "a3s", "symbol": "aa", "name": "A3S"}
+{"id": "a4-finance", "symbol": "a4", "name": "A4 Finance"}
+{"id": "aada-finance", "symbol": "lenfi", "name": "Lenfi"}
+{"id": "aag-ventures", "symbol": "aag", "name": "AAG"}
+{"id": "aardvark", "symbol": "ardvrk", "name": "Aardvark [OLD]"}
+{"id": "aardvark-2", "symbol": "vark", "name": "Aardvark"}
+{"id": "aave", "symbol": "aave", "name": "Aave"}
+{"id": "aave-aave", "symbol": "aaave", "name": "Aave AAVE"}
+{"id": "aave-amm-bptbalweth", "symbol": "aammbptbalweth", "name": "Aave AMM BptBALWETH"}
+{"id": "aave-amm-bptwbtcweth", "symbol": "aammbptwbtcweth", "name": "Aave AMM BptWBTCWETH"}
+{"id": "aave-amm-dai", "symbol": "aammdai", "name": "Aave AMM DAI"}
+{"id": "aave-amm-uniaaveweth", "symbol": "aammuniaaveweth", "name": "Aave AMM UniAAVEWETH"}
+{"id": "aave-amm-unibatweth", "symbol": "aammunibatweth", "name": "Aave AMM UniBATWETH"}
+{"id": "aave-amm-unicrvweth", "symbol": "aammunicrvweth", "name": "Aave AMM UniCRVWETH"}
+{"id": "aave-amm-unidaiusdc", "symbol": "aammunidaiusdc", "name": "Aave AMM UniDAIUSDC"}
+{"id": "aave-amm-unidaiweth", "symbol": "aammunidaiweth", "name": "Aave AMM UniDAIWETH"}
+{"id": "aave-amm-unilinkweth", "symbol": "aammunilinkweth", "name": "Aave AMM UniLINKWETH"}
+{"id": "aave-amm-unimkrweth", "symbol": "aammunimkrweth", "name": "Aave AMM UniMKRWETH"}
+{"id": "aave-amm-unirenweth", "symbol": "aammunirenweth", "name": "Aave AMM UniRENWETH"}
+{"id": "aave-amm-unisnxweth", "symbol": "aammunisnxweth", "name": "Aave AMM UniSNXWETH"}
+{"id": "aave-amm-uniuniweth", "symbol": "aammuniuniweth", "name": "Aave AMM UniUNIWETH"}
+{"id": "aave-amm-uniusdcweth", "symbol": "aammuniusdcweth", "name": "Aave AMM UniUSDCWETH"}
+{"id": "aave-amm-uniwbtcusdc", "symbol": "aammuniwbtcusdc", "name": "Aave AMM UniWBTCUSDC"}
+{"id": "aave-amm-uniwbtcweth", "symbol": "aammuniwbtcweth", "name": "Aave AMM UniWBTCWETH"}
+{"id": "aave-amm-uniyfiweth", "symbol": "aammuniyfiweth", "name": "Aave AMM UniYFIWETH"}
+{"id": "aave-amm-usdc", "symbol": "aammusdc", "name": "Aave AMM USDC"}
+{"id": "aave-amm-usdt", "symbol": "aammusdt", "name": "Aave AMM USDT"}
+{"id": "aave-amm-wbtc", "symbol": "aammwbtc", "name": "Aave AMM WBTC"}
+{"id": "aave-amm-weth", "symbol": "aammweth", "name": "Aave AMM WETH"}
+{"id": "aave-bal", "symbol": "abal", "name": "Aave BAL"}
+{"id": "aave-balancer-pool-token", "symbol": "abpt", "name": "Aave Balancer Pool Token"}
+{"id": "aave-bat", "symbol": "abat", "name": "Aave BAT"}
+{"id": "aave-bat-v1", "symbol": "abat", "name": "Aave BAT v1"}
+{"id": "aave-busd", "symbol": "abusd", "name": "Aave BUSD"}
+{"id": "aave-busd-v1", "symbol": "abusd", "name": "Aave BUSD v1"}
+{"id": "aave-crv", "symbol": "acrv", "name": "Aave CRV"}
+{"id": "aave-dai", "symbol": "adai", "name": "Aave DAI"}
+{"id": "aave-dai-v1", "symbol": "adai", "name": "Aave DAI v1"}
+{"id": "aave-enj", "symbol": "aenj", "name": "Aave ENJ"}
+{"id": "aave-enj-v1", "symbol": "aenj", "name": "Aave ENJ v1"}
+{"id": "aave-eth-v1", "symbol": "aeth", "name": "Aave ETH v1"}
+{"id": "aavegotchi", "symbol": "ghst", "name": "Aavegotchi"}
+{"id": "aavegotchi-alpha", "symbol": "alpha", "name": "Aavegotchi ALPHA"}
+{"id": "aavegotchi-fomo", "symbol": "fomo", "name": "Aavegotchi FOMO"}
+{"id": "aavegotchi-fud", "symbol": "fud", "name": "Aavegotchi FUD"}
+{"id": "aavegotchi-kek", "symbol": "kek", "name": "Aavegotchi KEK"}
+{"id": "aave-gusd", "symbol": "agusd", "name": "Aave GUSD"}
+{"id": "aave-interest-bearing-steth", "symbol": "asteth", "name": "Aave Interest Bearing STETH"}
+{"id": "aave-knc", "symbol": "aknc", "name": "Aave KNC"}
+{"id": "aave-knc-v1", "symbol": "aknc", "name": "Aave KNC v1"}
+{"id": "aave-link", "symbol": "alink", "name": "Aave LINK"}
+{"id": "aave-link-v1", "symbol": "alink", "name": "Aave LINK v1"}
+{"id": "aave-mana", "symbol": "amana", "name": "Aave MANA"}
+{"id": "aave-mana-v1", "symbol": "amana", "name": "Aave MANA v1"}
+{"id": "aave-mkr", "symbol": "amkr", "name": "Aave MKR"}
+{"id": "aave-mkr-v1", "symbol": "amkr", "name": "Aave MKR v1"}
+{"id": "aave-polygon-aave", "symbol": "amaave", "name": "Aave Polygon AAVE"}
+{"id": "aave-polygon-dai", "symbol": "amdai", "name": "Aave Polygon DAI"}
+{"id": "aave-polygon-usdc", "symbol": "amusdc", "name": "Aave Polygon USDC"}
+{"id": "aave-polygon-usdt", "symbol": "amusdt", "name": "Aave Polygon USDT"}
+{"id": "aave-polygon-wbtc", "symbol": "amwbtc", "name": "Aave Polygon WBTC"}
+{"id": "aave-polygon-weth", "symbol": "amweth", "name": "Aave Polygon WETH"}
+{"id": "aave-polygon-wmatic", "symbol": "amwmatic", "name": "Aave Polygon WMATIC"}
+{"id": "aave-rai", "symbol": "arai", "name": "Aave RAI"}
+{"id": "aave-ren", "symbol": "aren", "name": "Aave REN"}
+{"id": "aave-ren-v1", "symbol": "aren", "name": "Aave REN v1"}
+{"id": "aave-snx", "symbol": "asnx", "name": "Aave SNX"}
+{"id": "aave-snx-v1", "symbol": "asnx", "name": "Aave SNX v1"}
+{"id": "aave-susd", "symbol": "asusd", "name": "Aave SUSD"}
+{"id": "aave-susd-v1", "symbol": "asusd", "name": "Aave SUSD v1"}
+{"id": "aave-tusd", "symbol": "atusd", "name": "Aave TUSD"}
+{"id": "aave-tusd-v1", "symbol": "atusd", "name": "Aave TUSD v1"}
+{"id": "aave-uni", "symbol": "auni", "name": "Aave UNI"}
+{"id": "aave-usdc", "symbol": "ausdc", "name": "Aave v2 USDC"}
+{"id": "aave-usdc-v1", "symbol": "ausdc", "name": "Aave USDC v1"}
+{"id": "aave-usdt", "symbol": "ausdt", "name": "Aave USDT"}
+{"id": "aave-usdt-v1", "symbol": "ausdt", "name": "Aave USDT v1"}
+{"id": "aave-v3-1inch", "symbol": "a1inch", "name": "Aave v3 1INCH"}
+{"id": "aave-v3-aave", "symbol": "aaave", "name": "Aave v3 AAVE"}
+{"id": "aave-v3-ageur", "symbol": "aageur", "name": "Aave v3 agEUR"}
+{"id": "aave-v3-arb", "symbol": "aarb", "name": "Aave v3 ARB"}
+{"id": "aave-v3-bal", "symbol": "abal", "name": "Aave v3 BAL"}
+{"id": "aave-v3-btc-b", "symbol": "abtc.b", "name": "Aave v3 BTC.b"}
+{"id": "aave-v3-cbeth", "symbol": "acbeth", "name": "Aave v3 cbETH"}
+{"id": "aave-v3-crv", "symbol": "acrv", "name": "Aave v3 CRV"}
+{"id": "aave-v3-dai", "symbol": "adai", "name": "Aave v3 DAI"}
+{"id": "aave-v3-dpi", "symbol": "adpi", "name": "Aave v3 DPI"}
+{"id": "aave-v3-ens", "symbol": "aens", "name": "Aave v3 ENS"}
+{"id": "aave-v3-eure", "symbol": "aeure", "name": "Aave v3 EURe"}
+{"id": "aave-v3-eurs", "symbol": "aeurs", "name": "Aave v3 EURS"}
+{"id": "aave-v3-frax", "symbol": "afrax", "name": "Aave v3 FRAX"}
+{"id": "aave-v3-ghst", "symbol": "aghst", "name": "Aave v3 GHST"}
+{"id": "aave-v3-gno", "symbol": "agno", "name": "Aave v3 GNO"}
+{"id": "aave-v3-knc", "symbol": "aknc", "name": "Aave v3 KNC"}
+{"id": "aave-v3-ldo", "symbol": "aldo", "name": "Aave v3 LDO"}
+{"id": "aave-v3-link", "symbol": "alink", "name": "Aave v3 LINK"}
+{"id": "aave-v3-lusd", "symbol": "alusd", "name": "Aave v3 LUSD"}
+{"id": "aave-v3-mai", "symbol": "amai", "name": "Aave v3 MAI"}
+{"id": "aave-v3-maticx", "symbol": "amaticx", "name": "Aave v3 MaticX"}
+{"id": "aave-v3-metis", "symbol": "ametis", "name": "Aave v3 Metis"}
+{"id": "aave-v3-mkr", "symbol": "amkr", "name": "Aave v3 MKR"}
+{"id": "aave-v3-op", "symbol": "aop", "name": "Aave v3 OP"}
+{"id": "aave-v3-reth", "symbol": "areth", "name": "Aave v3 rETH"}
+{"id": "aave-v3-rpl", "symbol": "arpl", "name": "Aave v3 RPL"}
+{"id": "aave-v3-savax", "symbol": "asavax", "name": "Aave v3 sAVAX"}
+{"id": "aave-v3-sdai", "symbol": "asdai", "name": "Aave v3 sDAI"}
+{"id": "aave-v3-snx", "symbol": "asnx", "name": "Aave v3 SNX"}
+{"id": "aave-v3-stg", "symbol": "astg", "name": "Aave v3 STG"}
+{"id": "aave-v3-stmatic", "symbol": "astmatic", "name": "Aave v3 stMATIC"}
+{"id": "aave-v3-susd", "symbol": "asusd", "name": "Aave v3 sUSD"}
+{"id": "aave-v3-sushi", "symbol": "asushi", "name": "Aave v3 SUSHI"}
+{"id": "01coin", "symbol": "zoc", "name": "01coin"}
+{"id": "0chain", "symbol": "zcn", "name": "Zus"}
+{"id": "0-knowledge-network", "symbol": "0kn", "name": "0 Knowledge Network"}
+{"id": "0-mee", "symbol": "ome", "name": "O-MEE"}
+{"id": "0vix-protocol", "symbol": "vix", "name": "0VIX Protocol"}
+{"id": "0x", "symbol": "zrx", "name": "0x Protocol"}
+{"id": "0x0-ai-ai-smart-contract", "symbol": "0x0", "name": "0x0.ai: AI Smart Contract"}
+{"id": "0x1-tools-ai-multi-tool", "symbol": "0x1", "name": "0x1.tools: AI Multi-tool"}
+{"id": "0xaiswap", "symbol": "0xaiswap", "name": "0xAISwap"}
+{"id": "0xanon", "symbol": "0xanon", "name": "0xAnon"}
+{"id": "0xauto-io-contract-auto-deployer", "symbol": "0xa", "name": "0xAuto.io : Contract Auto Deployer"}
+{"id": "0xblack", "symbol": "0xb", "name": "0xBlack"}
+{"id": "0xcoco", "symbol": "coco", "name": "0xCoco"}
+{"id": "0xconnect", "symbol": "0xcon", "name": "0xConnect"}
+{"id": "0xdao", "symbol": "oxd", "name": "0xDAO"}
+{"id": "0xdefcafe", "symbol": "cafe", "name": "0xDEFCAFE"}
+{"id": "0xfreelance", "symbol": "0xfree", "name": "0xFreelance"}
+{"id": "0xfriend", "symbol": "0xf", "name": "0xFriend"}
+{"id": "0xgambit", "symbol": "0xg", "name": "0xgambit"}
+{"id": "0xgasless", "symbol": "0xgas", "name": "0xGasless"}
+{"id": "0x-leverage", "symbol": "oxl", "name": "0x Leverage"}
+{"id": "0xlsd", "symbol": "0xlsd", "name": "0xLSD"}
+{"id": "0xmonero", "symbol": "0xmr", "name": "0xMonero"}
+{"id": "0xs", "symbol": "$0xs", "name": "0xS"}
+{"id": "0xsniper", "symbol": "0xs", "name": "0xSniper"}
+{"id": "0xvault", "symbol": "vault", "name": "0xVault"}
+{"id": "12ships", "symbol": "tshp", "name": "12Ships"}
+{"id": "1art", "symbol": "1art", "name": "OneArt"}
+{"id": "1eco", "symbol": "1eco", "name": "1eco"}
+{"id": "1hive-water", "symbol": "water", "name": "1Hive Water"}
+{"id": "1inch", "symbol": "1inch", "name": "1inch"}
+{"id": "1inch-yvault", "symbol": "yv1inch", "name": "1INCH yVault"}
+{"id": "1million-nfts", "symbol": "1mil", "name": "1MillionNFTs"}
+{"id": "1minbet", "symbol": "1mb", "name": "1minBET"}
+{"id": "1move token", "symbol": "1mt", "name": "1Move Token"}
+{"id": "1peco", "symbol": "1peco", "name": "1peco"}
+{"id": "1reward-token", "symbol": "1rt", "name": "1Reward Token"}
+{"id": "1safu", "symbol": "safu", "name": "1SAFU"}
+{"id": "1sol", "symbol": "1sol", "name": "1Sol"}
+{"id": "1sol-io-wormhole", "symbol": "1sol", "name": "1sol.io (Wormhole)"}
+{"id": "-2", "symbol": "\u20bf", "name": "\u20bf"}
+{"id": "2024pump", "symbol": "pump", "name": "2024PUMP"}
+{"id": "2049", "symbol": "2049", "name": "2049"}
+{"id": "2080", "symbol": "2080", "name": "2080"}
+{"id": "20weth-80bal", "symbol": "20weth-80bal", "name": "20WETH-80BAL"}
+{"id": "28", "symbol": "28", "name": "28"}
+{"id": "28vck", "symbol": "vck", "name": "28VCK"}
+{"id": "2acoin", "symbol": "arms", "name": "2ACoin"}
+{"id": "2dai-io", "symbol": "2dai", "name": "2DAI.io"}
+{"id": "2g-carbon-coin", "symbol": "2gcc", "name": "2G Carbon Coin"}
+{"id": "2moon", "symbol": "moon", "name": "2MOON"}
+{"id": "2omb-finance", "symbol": "2omb", "name": "2omb"}
+{"id": "2share", "symbol": "2shares", "name": "2SHARE"}
+{"id": "300fit", "symbol": "fit", "name": "300FIT"}
+{"id": "3a-lending-protocol", "symbol": "a3a", "name": "3A"}
+{"id": "3d3d", "symbol": "3d3d", "name": "3d3d"}
+{"id": "3dpass", "symbol": "p3d", "name": "3DPass"}
+{"id": "3-kingdoms-multiverse", "symbol": "3km", "name": "3 Kingdoms Multiverse"}
+{"id": "3shares", "symbol": "3share", "name": "3Share"}
+{"id": "3wild", "symbol": "3wild", "name": "3WILD"}
+{"id": "3xcalibur", "symbol": "xcal", "name": "3xcalibur Ecosystem Token"}
+{"id": "42-coin", "symbol": "42", "name": "42-coin"}
+{"id": "01coin", "symbol": "zoc", "name": "01coin"}
+{"id": "0chain", "symbol": "zcn", "name": "Zus"}
+{"id": "0-knowledge-network", "symbol": "0kn", "name": "0 Knowledge Network"}
+{"id": "0-mee", "symbol": "ome", "name": "O-MEE"}
+{"id": "0vix-protocol", "symbol": "vix", "name": "0VIX Protocol"}
+{"id": "0x", "symbol": "zrx", "name": "0x Protocol"}
+{"id": "0x0-ai-ai-smart-contract", "symbol": "0x0", "name": "0x0.ai: AI Smart Contract"}
+{"id": "0x1-tools-ai-multi-tool", "symbol": "0x1", "name": "0x1.tools: AI Multi-tool"}
+{"id": "0xaiswap", "symbol": "0xaiswap", "name": "0xAISwap"}
+{"id": "0xanon", "symbol": "0xanon", "name": "0xAnon"}
+{"id": "0xauto-io-contract-auto-deployer", "symbol": "0xa", "name": "0xAuto.io : Contract Auto Deployer"}
+{"id": "0xblack", "symbol": "0xb", "name": "0xBlack"}
+{"id": "0xcoco", "symbol": "coco", "name": "0xCoco"}
+{"id": "0xconnect", "symbol": "0xcon", "name": "0xConnect"}
+{"id": "0xdao", "symbol": "oxd", "name": "0xDAO"}
+{"id": "0xdefcafe", "symbol": "cafe", "name": "0xDEFCAFE"}
+{"id": "0xfreelance", "symbol": "0xfree", "name": "0xFreelance"}
+{"id": "0xfriend", "symbol": "0xf", "name": "0xFriend"}
+{"id": "0xgambit", "symbol": "0xg", "name": "0xgambit"}
+{"id": "0xgasless", "symbol": "0xgas", "name": "0xGasless"}
+{"id": "0x-leverage", "symbol": "oxl", "name": "0x Leverage"}
+{"id": "0xlsd", "symbol": "0xlsd", "name": "0xLSD"}
+{"id": "0xmonero", "symbol": "0xmr", "name": "0xMonero"}
+{"id": "0xs", "symbol": "$0xs", "name": "0xS"}
+{"id": "0xsniper", "symbol": "0xs", "name": "0xSniper"}
+{"id": "0xvault", "symbol": "vault", "name": "0xVault"}
+{"id": "12ships", "symbol": "tshp", "name": "12Ships"}
+{"id": "1art", "symbol": "1art", "name": "OneArt"}
+{"id": "1eco", "symbol": "1eco", "name": "1eco"}
+{"id": "1hive-water", "symbol": "water", "name": "1Hive Water"}
+{"id": "1inch", "symbol": "1inch", "name": "1inch"}
+{"id": "1inch-yvault", "symbol": "yv1inch", "name": "1INCH yVault"}
+{"id": "1million-nfts", "symbol": "1mil", "name": "1MillionNFTs"}
+{"id": "1minbet", "symbol": "1mb", "name": "1minBET"}
+{"id": "1move token", "symbol": "1mt", "name": "1Move Token"}
+{"id": "1peco", "symbol": "1peco", "name": "1peco"}
+{"id": "1reward-token", "symbol": "1rt", "name": "1Reward Token"}
+{"id": "1safu", "symbol": "safu", "name": "1SAFU"}
+{"id": "1sol", "symbol": "1sol", "name": "1Sol"}
+{"id": "1sol-io-wormhole", "symbol": "1sol", "name": "1sol.io (Wormhole)"}
+{"id": "-2", "symbol": "\u20bf", "name": "\u20bf"}
+{"id": "2024pump", "symbol": "pump", "name": "2024PUMP"}
+{"id": "2049", "symbol": "2049", "name": "2049"}
+{"id": "2080", "symbol": "2080", "name": "2080"}
+{"id": "20weth-80bal", "symbol": "20weth-80bal", "name": "20WETH-80BAL"}
+{"id": "28", "symbol": "28", "name": "28"}
+{"id": "28vck", "symbol": "vck", "name": "28VCK"}
+{"id": "2acoin", "symbol": "arms", "name": "2ACoin"}
+{"id": "2dai-io", "symbol": "2dai", "name": "2DAI.io"}
+{"id": "2g-carbon-coin", "symbol": "2gcc", "name": "2G Carbon Coin"}
+{"id": "2moon", "symbol": "moon", "name": "2MOON"}
+{"id": "2omb-finance", "symbol": "2omb", "name": "2omb"}
+{"id": "2share", "symbol": "2shares", "name": "2SHARE"}
+{"id": "300fit", "symbol": "fit", "name": "300FIT"}
+{"id": "3a-lending-protocol", "symbol": "a3a", "name": "3A"}
+{"id": "3d3d", "symbol": "3d3d", "name": "3d3d"}
+{"id": "3dpass", "symbol": "p3d", "name": "3DPass"}
+{"id": "3-kingdoms-multiverse", "symbol": "3km", "name": "3 Kingdoms Multiverse"}
+{"id": "3shares", "symbol": "3share", "name": "3Share"}
+{"id": "3wild", "symbol": "3wild", "name": "3WILD"}
+{"id": "3xcalibur", "symbol": "xcal", "name": "3xcalibur Ecosystem Token"}
+{"id": "42-coin", "symbol": "42", "name": "42-coin"}
+{"id": "4artechnologies", "symbol": "4art", "name": "4ART Coin"}
+{"id": "4chan", "symbol": "4chan", "name": "4Chan"}
+{"id": "4d-twin-maps-2", "symbol": "4dmaps", "name": "4D Twin Maps"}
+{"id": "4int", "symbol": "4int", "name": "4INT"}
+{"id": "4jnet", "symbol": "4jnet", "name": "4JNET"}
+{"id": "4-next-unicorn", "symbol": "nxtu", "name": "4 Next Unicorn"}
+{"id": "50cal", "symbol": "50cal", "name": "50cal"}
+{"id": "50cent", "symbol": "50c", "name": "50Cent"}
+{"id": "5g-cash", "symbol": "vgc", "name": "5G-CASH"}
+{"id": "5km-run", "symbol": "run", "name": "5KM RUN"}
+{"id": "5mc", "symbol": "5mc", "name": "5mc"}
+{"id": "69420", "symbol": "69420", "name": "69420"}
+{"id": "888tron", "symbol": "888", "name": "888tron"}
+{"id": "88mph", "symbol": "mph", "name": "88mph"}
+{"id": "8bitearn", "symbol": "8bit", "name": "8BITEARN"}
+{"id": "8pay", "symbol": "8pay", "name": "8Pay"}
+{"id": "99starz", "symbol": "stz", "name": "99Starz"}
+{"id": "9inch", "symbol": "9inch", "name": "9inch"}
+{"id": "9inch-eth", "symbol": "9inch", "name": "9inch ETH"}
+{"id": "a3s", "symbol": "aa", "name": "A3S"}
+{"id": "a4-finance", "symbol": "a4", "name": "A4 Finance"}
+{"id": "aada-finance", "symbol": "lenfi", "name": "Lenfi"}
+{"id": "aag-ventures", "symbol": "aag", "name": "AAG"}
+{"id": "aardvark", "symbol": "ardvrk", "name": "Aardvark [OLD]"}
+{"id": "aardvark-2", "symbol": "vark", "name": "Aardvark"}
+{"id": "aave", "symbol": "aave", "name": "Aave"}
+{"id": "aave-aave", "symbol": "aaave", "name": "Aave AAVE"}
+{"id": "aave-amm-bptbalweth", "symbol": "aammbptbalweth", "name": "Aave AMM BptBALWETH"}
+{"id": "aave-amm-bptwbtcweth", "symbol": "aammbptwbtcweth", "name": "Aave AMM BptWBTCWETH"}
+{"id": "aave-amm-dai", "symbol": "aammdai", "name": "Aave AMM DAI"}
+{"id": "aave-amm-uniaaveweth", "symbol": "aammuniaaveweth", "name": "Aave AMM UniAAVEWETH"}
+{"id": "aave-amm-unibatweth", "symbol": "aammunibatweth", "name": "Aave AMM UniBATWETH"}
+{"id": "aave-amm-unicrvweth", "symbol": "aammunicrvweth", "name": "Aave AMM UniCRVWETH"}
+{"id": "aave-amm-unidaiusdc", "symbol": "aammunidaiusdc", "name": "Aave AMM UniDAIUSDC"}
+{"id": "aave-amm-unidaiweth", "symbol": "aammunidaiweth", "name": "Aave AMM UniDAIWETH"}
+{"id": "aave-amm-unilinkweth", "symbol": "aammunilinkweth", "name": "Aave AMM UniLINKWETH"}
+{"id": "aave-amm-unimkrweth", "symbol": "aammunimkrweth", "name": "Aave AMM UniMKRWETH"}
+{"id": "aave-amm-unirenweth", "symbol": "aammunirenweth", "name": "Aave AMM UniRENWETH"}
+{"id": "01coin", "symbol": "zoc", "name": "01coin"}
+{"id": "0chain", "symbol": "zcn", "name": "Zus"}
+{"id": "0-knowledge-network", "symbol": "0kn", "name": "0 Knowledge Network"}
+{"id": "0-mee", "symbol": "ome", "name": "O-MEE"}
+{"id": "0vix-protocol", "symbol": "vix", "name": "0VIX Protocol"}
+{"id": "0x", "symbol": "zrx", "name": "0x Protocol"}
+{"id": "0x0-ai-ai-smart-contract", "symbol": "0x0", "name": "0x0.ai: AI Smart Contract"}
+{"id": "0x1-tools-ai-multi-tool", "symbol": "0x1", "name": "0x1.tools: AI Multi-tool"}
+{"id": "0xaiswap", "symbol": "0xaiswap", "name": "0xAISwap"}
+{"id": "0xanon", "symbol": "0xanon", "name": "0xAnon"}
+{"id": "0xauto-io-contract-auto-deployer", "symbol": "0xa", "name": "0xAuto.io : Contract Auto Deployer"}
+{"id": "0xblack", "symbol": "0xb", "name": "0xBlack"}
+{"id": "0xcoco", "symbol": "coco", "name": "0xCoco"}
+{"id": "0xconnect", "symbol": "0xcon", "name": "0xConnect"}
+{"id": "0xdao", "symbol": "oxd", "name": "0xDAO"}
+{"id": "0xdefcafe", "symbol": "cafe", "name": "0xDEFCAFE"}
+{"id": "0xfreelance", "symbol": "0xfree", "name": "0xFreelance"}
+{"id": "0xfriend", "symbol": "0xf", "name": "0xFriend"}
+{"id": "0xgambit", "symbol": "0xg", "name": "0xgambit"}
+{"id": "0xgasless", "symbol": "0xgas", "name": "0xGasless"}
+{"id": "0x-leverage", "symbol": "oxl", "name": "0x Leverage"}
+{"id": "0xlsd", "symbol": "0xlsd", "name": "0xLSD"}
+{"id": "0xmonero", "symbol": "0xmr", "name": "0xMonero"}
+{"id": "0xs", "symbol": "$0xs", "name": "0xS"}
+{"id": "0xsniper", "symbol": "0xs", "name": "0xSniper"}
+{"id": "0xvault", "symbol": "vault", "name": "0xVault"}
+{"id": "12ships", "symbol": "tshp", "name": "12Ships"}
+{"id": "1art", "symbol": "1art", "name": "OneArt"}
+{"id": "1eco", "symbol": "1eco", "name": "1eco"}
+{"id": "1hive-water", "symbol": "water", "name": "1Hive Water"}
+{"id": "1inch", "symbol": "1inch", "name": "1inch"}
+{"id": "1inch-yvault", "symbol": "yv1inch", "name": "1INCH yVault"}
+{"id": "1million-nfts", "symbol": "1mil", "name": "1MillionNFTs"}
+{"id": "1minbet", "symbol": "1mb", "name": "1minBET"}
+{"id": "1move token", "symbol": "1mt", "name": "1Move Token"}
+{"id": "1peco", "symbol": "1peco", "name": "1peco"}
+{"id": "1reward-token", "symbol": "1rt", "name": "1Reward Token"}
+{"id": "1safu", "symbol": "safu", "name": "1SAFU"}
+{"id": "1sol", "symbol": "1sol", "name": "1Sol"}
+{"id": "1sol-io-wormhole", "symbol": "1sol", "name": "1sol.io (Wormhole)"}
+{"id": "-2", "symbol": "\u20bf", "name": "\u20bf"}
+{"id": "2024pump", "symbol": "pump", "name": "2024PUMP"}
+{"id": "2049", "symbol": "2049", "name": "2049"}
+{"id": "2080", "symbol": "2080", "name": "2080"}
+{"id": "20weth-80bal", "symbol": "20weth-80bal", "name": "20WETH-80BAL"}
+{"id": "28", "symbol": "28", "name": "28"}
+{"id": "28vck", "symbol": "vck", "name": "28VCK"}
+{"id": "2acoin", "symbol": "arms", "name": "2ACoin"}
+{"id": "2dai-io", "symbol": "2dai", "name": "2DAI.io"}
+{"id": "2g-carbon-coin", "symbol": "2gcc", "name": "2G Carbon Coin"}
+{"id": "2moon", "symbol": "moon", "name": "2MOON"}
+{"id": "2omb-finance", "symbol": "2omb", "name": "2omb"}
+{"id": "2share", "symbol": "2shares", "name": "2SHARE"}
+{"id": "300fit", "symbol": "fit", "name": "300FIT"}
+{"id": "3a-lending-protocol", "symbol": "a3a", "name": "3A"}
+{"id": "3d3d", "symbol": "3d3d", "name": "3d3d"}
+{"id": "3dpass", "symbol": "p3d", "name": "3DPass"}
+{"id": "3-kingdoms-multiverse", "symbol": "3km", "name": "3 Kingdoms Multiverse"}
+{"id": "3shares", "symbol": "3share", "name": "3Share"}
+{"id": "3wild", "symbol": "3wild", "name": "3WILD"}
+{"id": "3xcalibur", "symbol": "xcal", "name": "3xcalibur Ecosystem Token"}
+{"id": "42-coin", "symbol": "42", "name": "42-coin"}
+{"id": "4artechnologies", "symbol": "4art", "name": "4ART Coin"}
+{"id": "4chan", "symbol": "4chan", "name": "4Chan"}
+{"id": "4d-twin-maps-2", "symbol": "4dmaps", "name": "4D Twin Maps"}
+{"id": "4int", "symbol": "4int", "name": "4INT"}
+{"id": "4jnet", "symbol": "4jnet", "name": "4JNET"}
+{"id": "4-next-unicorn", "symbol": "nxtu", "name": "4 Next Unicorn"}
+{"id": "50cal", "symbol": "50cal", "name": "50cal"}
+{"id": "50cent", "symbol": "50c", "name": "50Cent"}
+{"id": "5g-cash", "symbol": "vgc", "name": "5G-CASH"}
+{"id": "5km-run", "symbol": "run", "name": "5KM RUN"}
+{"id": "5mc", "symbol": "5mc", "name": "5mc"}
+{"id": "69420", "symbol": "69420", "name": "69420"}
+{"id": "888tron", "symbol": "888", "name": "888tron"}
+{"id": "88mph", "symbol": "mph", "name": "88mph"}
+{"id": "8bitearn", "symbol": "8bit", "name": "8BITEARN"}
+{"id": "8pay", "symbol": "8pay", "name": "8Pay"}
+{"id": "99starz", "symbol": "stz", "name": "99Starz"}
+{"id": "9inch", "symbol": "9inch", "name": "9inch"}
+{"id": "9inch-eth", "symbol": "9inch", "name": "9inch ETH"}
+{"id": "a3s", "symbol": "aa", "name": "A3S"}
+{"id": "a4-finance", "symbol": "a4", "name": "A4 Finance"}
+{"id": "aada-finance", "symbol": "lenfi", "name": "Lenfi"}
+{"id": "aag-ventures", "symbol": "aag", "name": "AAG"}
+{"id": "aardvark", "symbol": "ardvrk", "name": "Aardvark [OLD]"}
+{"id": "aardvark-2", "symbol": "vark", "name": "Aardvark"}
+{"id": "aave", "symbol": "aave", "name": "Aave"}
+{"id": "aave-aave", "symbol": "aaave", "name": "Aave AAVE"}
+{"id": "aave-amm-bptbalweth", "symbol": "aammbptbalweth", "name": "Aave AMM BptBALWETH"}
+{"id": "aave-amm-bptwbtcweth", "symbol": "aammbptwbtcweth", "name": "Aave AMM BptWBTCWETH"}
+{"id": "aave-amm-dai", "symbol": "aammdai", "name": "Aave AMM DAI"}
+{"id": "aave-amm-uniaaveweth", "symbol": "aammuniaaveweth", "name": "Aave AMM UniAAVEWETH"}
+{"id": "aave-amm-unibatweth", "symbol": "aammunibatweth", "name": "Aave AMM UniBATWETH"}
+{"id": "aave-amm-unicrvweth", "symbol": "aammunicrvweth", "name": "Aave AMM UniCRVWETH"}
+{"id": "aave-amm-unidaiusdc", "symbol": "aammunidaiusdc", "name": "Aave AMM UniDAIUSDC"}
+{"id": "aave-amm-unidaiweth", "symbol": "aammunidaiweth", "name": "Aave AMM UniDAIWETH"}
+{"id": "aave-amm-unilinkweth", "symbol": "aammunilinkweth", "name": "Aave AMM UniLINKWETH"}
+{"id": "aave-amm-unimkrweth", "symbol": "aammunimkrweth", "name": "Aave AMM UniMKRWETH"}
+{"id": "aave-amm-unirenweth", "symbol": "aammunirenweth", "name": "Aave AMM UniRENWETH"}
+{"id": "aave-amm-unisnxweth", "symbol": "aammunisnxweth", "name": "Aave AMM UniSNXWETH"}
+{"id": "aave-amm-uniuniweth", "symbol": "aammuniuniweth", "name": "Aave AMM UniUNIWETH"}
+{"id": "aave-amm-uniusdcweth", "symbol": "aammuniusdcweth", "name": "Aave AMM UniUSDCWETH"}
+{"id": "aave-amm-uniwbtcusdc", "symbol": "aammuniwbtcusdc", "name": "Aave AMM UniWBTCUSDC"}
+{"id": "aave-amm-uniwbtcweth", "symbol": "aammuniwbtcweth", "name": "Aave AMM UniWBTCWETH"}
+{"id": "aave-amm-uniyfiweth", "symbol": "aammuniyfiweth", "name": "Aave AMM UniYFIWETH"}
+{"id": "aave-amm-usdc", "symbol": "aammusdc", "name": "Aave AMM USDC"}
+{"id": "aave-amm-usdt", "symbol": "aammusdt", "name": "Aave AMM USDT"}
+{"id": "aave-amm-wbtc", "symbol": "aammwbtc", "name": "Aave AMM WBTC"}
+{"id": "aave-amm-weth", "symbol": "aammweth", "name": "Aave AMM WETH"}
+{"id": "aave-bal", "symbol": "abal", "name": "Aave BAL"}
+{"id": "aave-balancer-pool-token", "symbol": "abpt", "name": "Aave Balancer Pool Token"}
+{"id": "aave-bat", "symbol": "abat", "name": "Aave BAT"}
+{"id": "aave-bat-v1", "symbol": "abat", "name": "Aave BAT v1"}
+{"id": "aave-busd", "symbol": "abusd", "name": "Aave BUSD"}
+{"id": "aave-busd-v1", "symbol": "abusd", "name": "Aave BUSD v1"}
+{"id": "aave-crv", "symbol": "acrv", "name": "Aave CRV"}
+{"id": "aave-dai", "symbol": "adai", "name": "Aave DAI"}
+{"id": "aave-dai-v1", "symbol": "adai", "name": "Aave DAI v1"}
+{"id": "aave-enj", "symbol": "aenj", "name": "Aave ENJ"}
+{"id": "aave-enj-v1", "symbol": "aenj", "name": "Aave ENJ v1"}
+{"id": "aave-eth-v1", "symbol": "aeth", "name": "Aave ETH v1"}
+{"id": "aavegotchi", "symbol": "ghst", "name": "Aavegotchi"}
+{"id": "aavegotchi-alpha", "symbol": "alpha", "name": "Aavegotchi ALPHA"}
+{"id": "aavegotchi-fomo", "symbol": "fomo", "name": "Aavegotchi FOMO"}
+{"id": "aavegotchi-fud", "symbol": "fud", "name": "Aavegotchi FUD"}
+{"id": "aavegotchi-kek", "symbol": "kek", "name": "Aavegotchi KEK"}
+{"id": "aave-gusd", "symbol": "agusd", "name": "Aave GUSD"}
+{"id": "aave-interest-bearing-steth", "symbol": "asteth", "name": "Aave Interest Bearing STETH"}
+{"id": "aave-knc", "symbol": "aknc", "name": "Aave KNC"}
+{"id": "aave-knc-v1", "symbol": "aknc", "name": "Aave KNC v1"}
+{"id": "aave-link", "symbol": "alink", "name": "Aave LINK"}
+{"id": "aave-link-v1", "symbol": "alink", "name": "Aave LINK v1"}
+{"id": "aave-mana", "symbol": "amana", "name": "Aave MANA"}
+{"id": "aave-mana-v1", "symbol": "amana", "name": "Aave MANA v1"}
+{"id": "aave-mkr", "symbol": "amkr", "name": "Aave MKR"}
+{"id": "aave-mkr-v1", "symbol": "amkr", "name": "Aave MKR v1"}
+{"id": "aave-polygon-aave", "symbol": "amaave", "name": "Aave Polygon AAVE"}
+{"id": "aave-polygon-dai", "symbol": "amdai", "name": "Aave Polygon DAI"}
+{"id": "aave-polygon-usdc", "symbol": "amusdc", "name": "Aave Polygon USDC"}
+{"id": "aave-polygon-usdt", "symbol": "amusdt", "name": "Aave Polygon USDT"}
+{"id": "aave-polygon-wbtc", "symbol": "amwbtc", "name": "Aave Polygon WBTC"}
+{"id": "01coin", "symbol": "zoc", "name": "01coin"}
+{"id": "0chain", "symbol": "zcn", "name": "Zus"}
+{"id": "0-knowledge-network", "symbol": "0kn", "name": "0 Knowledge Network"}
+{"id": "0-mee", "symbol": "ome", "name": "O-MEE"}
+{"id": "0vix-protocol", "symbol": "vix", "name": "0VIX Protocol"}
+{"id": "0x", "symbol": "zrx", "name": "0x Protocol"}
+{"id": "0x0-ai-ai-smart-contract", "symbol": "0x0", "name": "0x0.ai: AI Smart Contract"}
+{"id": "0x1-tools-ai-multi-tool", "symbol": "0x1", "name": "0x1.tools: AI Multi-tool"}
+{"id": "0xaiswap", "symbol": "0xaiswap", "name": "0xAISwap"}
+{"id": "0xanon", "symbol": "0xanon", "name": "0xAnon"}
+{"id": "0xauto-io-contract-auto-deployer", "symbol": "0xa", "name": "0xAuto.io : Contract Auto Deployer"}
+{"id": "0xblack", "symbol": "0xb", "name": "0xBlack"}
+{"id": "0xcoco", "symbol": "coco", "name": "0xCoco"}
+{"id": "0xconnect", "symbol": "0xcon", "name": "0xConnect"}
+{"id": "0xdao", "symbol": "oxd", "name": "0xDAO"}
+{"id": "0xdefcafe", "symbol": "cafe", "name": "0xDEFCAFE"}
+{"id": "0xfreelance", "symbol": "0xfree", "name": "0xFreelance"}
+{"id": "0xfriend", "symbol": "0xf", "name": "0xFriend"}
+{"id": "0xgambit", "symbol": "0xg", "name": "0xgambit"}
+{"id": "0xgasless", "symbol": "0xgas", "name": "0xGasless"}
+{"id": "0x-leverage", "symbol": "oxl", "name": "0x Leverage"}
+{"id": "0xlsd", "symbol": "0xlsd", "name": "0xLSD"}
+{"id": "0xmonero", "symbol": "0xmr", "name": "0xMonero"}
+{"id": "0xs", "symbol": "$0xs", "name": "0xS"}
+{"id": "0xsniper", "symbol": "0xs", "name": "0xSniper"}
+{"id": "0xvault", "symbol": "vault", "name": "0xVault"}
+{"id": "12ships", "symbol": "tshp", "name": "12Ships"}
+{"id": "1art", "symbol": "1art", "name": "OneArt"}
+{"id": "1eco", "symbol": "1eco", "name": "1eco"}
+{"id": "1hive-water", "symbol": "water", "name": "1Hive Water"}
+{"id": "1inch", "symbol": "1inch", "name": "1inch"}
+{"id": "1inch-yvault", "symbol": "yv1inch", "name": "1INCH yVault"}
+{"id": "1million-nfts", "symbol": "1mil", "name": "1MillionNFTs"}
+{"id": "1minbet", "symbol": "1mb", "name": "1minBET"}
+{"id": "1move token", "symbol": "1mt", "name": "1Move Token"}
+{"id": "1peco", "symbol": "1peco", "name": "1peco"}
+{"id": "1reward-token", "symbol": "1rt", "name": "1Reward Token"}
+{"id": "1safu", "symbol": "safu", "name": "1SAFU"}
+{"id": "1sol", "symbol": "1sol", "name": "1Sol"}
+{"id": "1sol-io-wormhole", "symbol": "1sol", "name": "1sol.io (Wormhole)"}
+{"id": "-2", "symbol": "\u20bf", "name": "\u20bf"}
+{"id": "2024pump", "symbol": "pump", "name": "2024PUMP"}
+{"id": "2049", "symbol": "2049", "name": "2049"}
+{"id": "2080", "symbol": "2080", "name": "2080"}
+{"id": "20weth-80bal", "symbol": "20weth-80bal", "name": "20WETH-80BAL"}
+{"id": "28", "symbol": "28", "name": "28"}
+{"id": "28vck", "symbol": "vck", "name": "28VCK"}
+{"id": "2acoin", "symbol": "arms", "name": "2ACoin"}
+{"id": "2dai-io", "symbol": "2dai", "name": "2DAI.io"}
+{"id": "2g-carbon-coin", "symbol": "2gcc", "name": "2G Carbon Coin"}
+{"id": "2moon", "symbol": "moon", "name": "2MOON"}
+{"id": "2omb-finance", "symbol": "2omb", "name": "2omb"}
+{"id": "2share", "symbol": "2shares", "name": "2SHARE"}
+{"id": "300fit", "symbol": "fit", "name": "300FIT"}
+{"id": "3a-lending-protocol", "symbol": "a3a", "name": "3A"}
+{"id": "3d3d", "symbol": "3d3d", "name": "3d3d"}
+{"id": "3dpass", "symbol": "p3d", "name": "3DPass"}
+{"id": "3-kingdoms-multiverse", "symbol": "3km", "name": "3 Kingdoms Multiverse"}
+{"id": "3shares", "symbol": "3share", "name": "3Share"}
+{"id": "3wild", "symbol": "3wild", "name": "3WILD"}
+{"id": "3xcalibur", "symbol": "xcal", "name": "3xcalibur Ecosystem Token"}
+{"id": "42-coin", "symbol": "42", "name": "42-coin"}
+{"id": "4artechnologies", "symbol": "4art", "name": "4ART Coin"}
+{"id": "4chan", "symbol": "4chan", "name": "4Chan"}
+{"id": "4d-twin-maps-2", "symbol": "4dmaps", "name": "4D Twin Maps"}
+{"id": "4int", "symbol": "4int", "name": "4INT"}
+{"id": "4jnet", "symbol": "4jnet", "name": "4JNET"}
+{"id": "4-next-unicorn", "symbol": "nxtu", "name": "4 Next Unicorn"}
+{"id": "50cal", "symbol": "50cal", "name": "50cal"}
+{"id": "50cent", "symbol": "50c", "name": "50Cent"}
+{"id": "5g-cash", "symbol": "vgc", "name": "5G-CASH"}
+{"id": "5km-run", "symbol": "run", "name": "5KM RUN"}
+{"id": "5mc", "symbol": "5mc", "name": "5mc"}
+{"id": "69420", "symbol": "69420", "name": "69420"}
+{"id": "888tron", "symbol": "888", "name": "888tron"}
+{"id": "88mph", "symbol": "mph", "name": "88mph"}
+{"id": "8bitearn", "symbol": "8bit", "name": "8BITEARN"}
+{"id": "8pay", "symbol": "8pay", "name": "8Pay"}
+{"id": "99starz", "symbol": "stz", "name": "99Starz"}
+{"id": "9inch", "symbol": "9inch", "name": "9inch"}
+{"id": "9inch-eth", "symbol": "9inch", "name": "9inch ETH"}
+{"id": "a3s", "symbol": "aa", "name": "A3S"}
+{"id": "a4-finance", "symbol": "a4", "name": "A4 Finance"}
+{"id": "aada-finance", "symbol": "lenfi", "name": "Lenfi"}
+{"id": "aag-ventures", "symbol": "aag", "name": "AAG"}
+{"id": "aardvark", "symbol": "ardvrk", "name": "Aardvark [OLD]"}
+{"id": "aardvark-2", "symbol": "vark", "name": "Aardvark"}
+{"id": "aave", "symbol": "aave", "name": "Aave"}
+{"id": "aave-aave", "symbol": "aaave", "name": "Aave AAVE"}
+{"id": "aave-amm-bptbalweth", "symbol": "aammbptbalweth", "name": "Aave AMM BptBALWETH"}
+{"id": "aave-amm-bptwbtcweth", "symbol": "aammbptwbtcweth", "name": "Aave AMM BptWBTCWETH"}
+{"id": "aave-amm-dai", "symbol": "aammdai", "name": "Aave AMM DAI"}
+{"id": "aave-amm-uniaaveweth", "symbol": "aammuniaaveweth", "name": "Aave AMM UniAAVEWETH"}
+{"id": "aave-amm-unibatweth", "symbol": "aammunibatweth", "name": "Aave AMM UniBATWETH"}
+{"id": "aave-amm-unicrvweth", "symbol": "aammunicrvweth", "name": "Aave AMM UniCRVWETH"}
+{"id": "aave-amm-unidaiusdc", "symbol": "aammunidaiusdc", "name": "Aave AMM UniDAIUSDC"}
+{"id": "aave-amm-unidaiweth", "symbol": "aammunidaiweth", "name": "Aave AMM UniDAIWETH"}
+{"id": "aave-amm-unilinkweth", "symbol": "aammunilinkweth", "name": "Aave AMM UniLINKWETH"}
+{"id": "aave-amm-unimkrweth", "symbol": "aammunimkrweth", "name": "Aave AMM UniMKRWETH"}
+{"id": "aave-amm-unirenweth", "symbol": "aammunirenweth", "name": "Aave AMM UniRENWETH"}
+{"id": "aave-amm-unisnxweth", "symbol": "aammunisnxweth", "name": "Aave AMM UniSNXWETH"}
+{"id": "aave-amm-uniuniweth", "symbol": "aammuniuniweth", "name": "Aave AMM UniUNIWETH"}
+{"id": "aave-amm-uniusdcweth", "symbol": "aammuniusdcweth", "name": "Aave AMM UniUSDCWETH"}
+{"id": "aave-amm-uniwbtcusdc", "symbol": "aammuniwbtcusdc", "name": "Aave AMM UniWBTCUSDC"}
+{"id": "aave-amm-uniwbtcweth", "symbol": "aammuniwbtcweth", "name": "Aave AMM UniWBTCWETH"}
+{"id": "aave-amm-uniyfiweth", "symbol": "aammuniyfiweth", "name": "Aave AMM UniYFIWETH"}
+{"id": "aave-amm-usdc", "symbol": "aammusdc", "name": "Aave AMM USDC"}
+{"id": "aave-amm-usdt", "symbol": "aammusdt", "name": "Aave AMM USDT"}
+{"id": "aave-amm-wbtc", "symbol": "aammwbtc", "name": "Aave AMM WBTC"}
+{"id": "aave-amm-weth", "symbol": "aammweth", "name": "Aave AMM WETH"}
+{"id": "aave-bal", "symbol": "abal", "name": "Aave BAL"}
+{"id": "aave-balancer-pool-token", "symbol": "abpt", "name": "Aave Balancer Pool Token"}
+{"id": "aave-bat", "symbol": "abat", "name": "Aave BAT"}
+{"id": "aave-bat-v1", "symbol": "abat", "name": "Aave BAT v1"}
+{"id": "aave-busd", "symbol": "abusd", "name": "Aave BUSD"}
+{"id": "aave-busd-v1", "symbol": "abusd", "name": "Aave BUSD v1"}
+{"id": "aave-crv", "symbol": "acrv", "name": "Aave CRV"}
+{"id": "aave-dai", "symbol": "adai", "name": "Aave DAI"}
+{"id": "aave-dai-v1", "symbol": "adai", "name": "Aave DAI v1"}
+{"id": "aave-enj", "symbol": "aenj", "name": "Aave ENJ"}
+{"id": "aave-enj-v1", "symbol": "aenj", "name": "Aave ENJ v1"}
+{"id": "aave-eth-v1", "symbol": "aeth", "name": "Aave ETH v1"}
+{"id": "aavegotchi", "symbol": "ghst", "name": "Aavegotchi"}
+{"id": "aavegotchi-alpha", "symbol": "alpha", "name": "Aavegotchi ALPHA"}
+{"id": "aavegotchi-fomo", "symbol": "fomo", "name": "Aavegotchi FOMO"}
+{"id": "aavegotchi-fud", "symbol": "fud", "name": "Aavegotchi FUD"}
+{"id": "aavegotchi-kek", "symbol": "kek", "name": "Aavegotchi KEK"}
+{"id": "aave-gusd", "symbol": "agusd", "name": "Aave GUSD"}
+{"id": "aave-interest-bearing-steth", "symbol": "asteth", "name": "Aave Interest Bearing STETH"}
+{"id": "aave-knc", "symbol": "aknc", "name": "Aave KNC"}
+{"id": "aave-knc-v1", "symbol": "aknc", "name": "Aave KNC v1"}
+{"id": "aave-link", "symbol": "alink", "name": "Aave LINK"}
+{"id": "aave-link-v1", "symbol": "alink", "name": "Aave LINK v1"}
+{"id": "aave-mana", "symbol": "amana", "name": "Aave MANA"}
+{"id": "aave-mana-v1", "symbol": "amana", "name": "Aave MANA v1"}
+{"id": "aave-mkr", "symbol": "amkr", "name": "Aave MKR"}
+{"id": "aave-mkr-v1", "symbol": "amkr", "name": "Aave MKR v1"}
+{"id": "aave-polygon-aave", "symbol": "amaave", "name": "Aave Polygon AAVE"}
+{"id": "aave-polygon-dai", "symbol": "amdai", "name": "Aave Polygon DAI"}
+{"id": "aave-polygon-usdc", "symbol": "amusdc", "name": "Aave Polygon USDC"}
+{"id": "aave-polygon-usdt", "symbol": "amusdt", "name": "Aave Polygon USDT"}
+{"id": "aave-polygon-wbtc", "symbol": "amwbtc", "name": "Aave Polygon WBTC"}
+{"id": "aave-polygon-weth", "symbol": "amweth", "name": "Aave Polygon WETH"}
+{"id": "aave-polygon-wmatic", "symbol": "amwmatic", "name": "Aave Polygon WMATIC"}
+{"id": "aave-rai", "symbol": "arai", "name": "Aave RAI"}
+{"id": "aave-ren", "symbol": "aren", "name": "Aave REN"}
+{"id": "aave-ren-v1", "symbol": "aren", "name": "Aave REN v1"}
+{"id": "aave-snx", "symbol": "asnx", "name": "Aave SNX"}
+{"id": "aave-snx-v1", "symbol": "asnx", "name": "Aave SNX v1"}
+{"id": "aave-susd", "symbol": "asusd", "name": "Aave SUSD"}
+{"id": "aave-susd-v1", "symbol": "asusd", "name": "Aave SUSD v1"}
+{"id": "aave-tusd", "symbol": "atusd", "name": "Aave TUSD"}
+{"id": "aave-tusd-v1", "symbol": "atusd", "name": "Aave TUSD v1"}
+{"id": "aave-uni", "symbol": "auni", "name": "Aave UNI"}
+{"id": "aave-usdc", "symbol": "ausdc", "name": "Aave v2 USDC"}
+{"id": "aave-usdc-v1", "symbol": "ausdc", "name": "Aave USDC v1"}
+{"id": "aave-usdt", "symbol": "ausdt", "name": "Aave USDT"}
+{"id": "aave-usdt-v1", "symbol": "ausdt", "name": "Aave USDT v1"}
+{"id": "aave-v3-1inch", "symbol": "a1inch", "name": "Aave v3 1INCH"}
+{"id": "aave-v3-aave", "symbol": "aaave", "name": "Aave v3 AAVE"}
+{"id": "aave-v3-ageur", "symbol": "aageur", "name": "Aave v3 agEUR"}
+{"id": "aave-v3-arb", "symbol": "aarb", "name": "Aave v3 ARB"}
+{"id": "aave-v3-bal", "symbol": "abal", "name": "Aave v3 BAL"}
+{"id": "aave-v3-btc-b", "symbol": "abtc.b", "name": "Aave v3 BTC.b"}
+{"id": "aave-v3-cbeth", "symbol": "acbeth", "name": "Aave v3 cbETH"}
+{"id": "aave-v3-crv", "symbol": "acrv", "name": "Aave v3 CRV"}
+{"id": "aave-v3-dai", "symbol": "adai", "name": "Aave v3 DAI"}
+{"id": "aave-v3-dpi", "symbol": "adpi", "name": "Aave v3 DPI"}
+{"id": "aave-v3-ens", "symbol": "aens", "name": "Aave v3 ENS"}
+{"id": "aave-v3-eure", "symbol": "aeure", "name": "Aave v3 EURe"}
+{"id": "aave-v3-eurs", "symbol": "aeurs", "name": "Aave v3 EURS"}
+{"id": "aave-v3-frax", "symbol": "afrax", "name": "Aave v3 FRAX"}
+{"id": "aave-v3-ghst", "symbol": "aghst", "name": "Aave v3 GHST"}
+{"id": "aave-v3-gno", "symbol": "agno", "name": "Aave v3 GNO"}
+{"id": "aave-v3-knc", "symbol": "aknc", "name": "Aave v3 KNC"}
+{"id": "aave-v3-ldo", "symbol": "aldo", "name": "Aave v3 LDO"}
+{"id": "aave-v3-link", "symbol": "alink", "name": "Aave v3 LINK"}
+{"id": "aave-v3-lusd", "symbol": "alusd", "name": "Aave v3 LUSD"}
+{"id": "aave-v3-mai", "symbol": "amai", "name": "Aave v3 MAI"}
+{"id": "aave-v3-maticx", "symbol": "amaticx", "name": "Aave v3 MaticX"}
+{"id": "aave-v3-metis", "symbol": "ametis", "name": "Aave v3 Metis"}
+{"id": "aave-v3-mkr", "symbol": "amkr", "name": "Aave v3 MKR"}
+{"id": "aave-v3-op", "symbol": "aop", "name": "Aave v3 OP"}
+{"id": "aave-v3-reth", "symbol": "areth", "name": "Aave v3 rETH"}
+{"id": "aave-v3-rpl", "symbol": "arpl", "name": "Aave v3 RPL"}
+{"id": "aave-v3-savax", "symbol": "asavax", "name": "Aave v3 sAVAX"}
+{"id": "aave-v3-sdai", "symbol": "asdai", "name": "Aave v3 sDAI"}
+{"id": "aave-v3-snx", "symbol": "asnx", "name": "Aave v3 SNX"}
+{"id": "aave-v3-stg", "symbol": "astg", "name": "Aave v3 STG"}
+{"id": "aave-v3-stmatic", "symbol": "astmatic", "name": "Aave v3 stMATIC"}
+{"id": "aave-v3-susd", "symbol": "asusd", "name": "Aave v3 sUSD"}
+{"id": "aave-v3-sushi", "symbol": "asushi", "name": "Aave v3 SUSHI"}
+{"id": "aave-v3-uni", "symbol": "auni", "name": "Aave v3 UNI"}
